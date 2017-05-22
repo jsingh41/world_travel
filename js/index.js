@@ -8,40 +8,33 @@ $(function () {
     ]
 
     const visited_states_in_india = [
-        'in-wb',
         'in-pb',
         'in-ga',
         'in-2984',
         'in-jk',
         'in-hr',
-        'in-tn',
         'in-ap',
         'in-ka',
         'in-mh',
-        'in-or',
         'in-dl',
         'in-hp',
         'in-rj',
         'in-up',
         'in-ut',
-        'in-jh',
-        'in-ch',
-        'in-br'
+        'in-mp',
+        'in-wb',
+        'in-sk',
     ]
 
     const visited_states_in_us = [
         'us-ma',
         'us-ca',
-        'us-wa',
-        'us-or',
-        'us-wi',
-        'us-nv',
-        'us-sc',
         'us-ny',
         'us-nj',
-        'us-fl',
-        'us-ga',
-        'us-az'
+        'us-ne',
+        'us-ia',
+        'us-pa',
+        'us-dc',
     ];
 
     function getDrilldown(data, visited) {
