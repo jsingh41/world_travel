@@ -36,6 +36,7 @@ $(function () {
         'us-pa',
         'us-dc',
         'us-ar',
+        'us-wa'
     ];
 
     function getDrilldown(data, visited) {
