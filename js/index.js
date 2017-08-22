@@ -36,7 +36,13 @@ $(function () {
         'us-pa',
         'us-dc',
         'us-ar',
-        'us-wa'
+        'us-wa',
+        'us-tn',
+        'us-ga',
+        'us-al',
+        'us-nc',
+        'us-sc',
+        'us-ky'
     ];
 
     function getDrilldown(data, visited) {
