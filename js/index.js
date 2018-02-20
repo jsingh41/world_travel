@@ -5,6 +5,7 @@ $(function () {
         'in',  // India
         'gb',  // Britain
         'us',  // US
+        'mx'   // Mexico
     ]
 
     const visited_states_in_india = [
