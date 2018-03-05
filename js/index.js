@@ -45,7 +45,9 @@ $(function () {
         'us-nc',
         'us-sc',
         'us-ky',
+        'us-az',
         'us-fl'
+        
     ];
 
     function getDrilldown(data, visited) {
