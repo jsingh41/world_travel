@@ -47,7 +47,8 @@ $(function () {
         'us-ky',
         'us-az',
         'us-fl',
-        'us-or'
+        'us-or',
+        'us-nv'
         
     ];
 
