@@ -48,7 +48,8 @@ $(function () {
         'us-az',
         'us-fl',
         'us-or',
-        'us-nv'
+        'us-nv',
+        'us-il'
         
     ];
 
