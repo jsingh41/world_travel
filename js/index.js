@@ -5,7 +5,7 @@ $(function () {
         'in',  // India
         'gb',  // Britain
         'us',  // US
-        'mx'   // Mexico
+        'mx',   // Mexico
         'no'   // Norway
     ]
 
