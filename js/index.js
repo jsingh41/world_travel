@@ -52,7 +52,8 @@ $(function () {
         'us-nv',
         'us-il',
         'us-ut',
-        'us-co'
+        'us-co',
+        'us-wy'
         
     ];
 
