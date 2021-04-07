@@ -51,7 +51,8 @@ $(function () {
         'us-or',
         'us-nv',
         'us-il',
-        'us-ut'
+        'us-ut',
+        'us-co'
         
     ];
 
