@@ -54,7 +54,8 @@ $(function () {
         'us-ut',
         'us-co',
         'us-wy',
-        'us-ak'
+        'us-ak',
+        'us-nh'
         
     ];
 
