@@ -53,7 +53,8 @@ $(function () {
         'us-il',
         'us-ut',
         'us-co',
-        'us-wy'
+        'us-wy',
+        'us-ak'
         
     ];
 
